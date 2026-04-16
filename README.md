@@ -58,3 +58,12 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Praharsh Vijay**. I’m an IT professional and passionate Data Engineer specializing in Applied AI & LLM systems, building scalable, production-grade data platforms and intelligent workflows!
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
